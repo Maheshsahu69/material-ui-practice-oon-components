@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "gender": "Male",
+      "first_name": "Mahesh",
+      "last_name": "Sahu",
+      "email": "hnguyen0@bloomberg.com",
+      "ip_address": "227.211.25.18"
+    }, {
+      "id": 2,
+      "gender": "Male",
+      "first_name": "Carlos",
+      "last_name": "Fowler",
+      "email": "cfowler1@gnu.org",
+      "ip_address": "214.248.201.11"
+    },
+    {
+        "id": 3,
+        "gender": "Male",
+        "first_name": "Bhisma",
+        "last_name": "Fowler",
+        "email": "cfowler1@gnu.org",
+        "ip_address": "214.248.201.11"
+      }
+]

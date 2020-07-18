@@ -1,0 +1,30 @@
+.icon-left{
+    position: relative;
+    left:10px;
+  
+    bottom:200px;
+}
+
+.icon-right{
+    position: relative;
+    top:200px;
+    right:10px;
+}
+.session-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.winter {
+    background-color: aliceblue;
+}
+.summer{
+    background-color: orange;
+}
+.session-display.winter i{
+    color: blue;
+}
+.session-display.summer i{
+    color: red;
+}
